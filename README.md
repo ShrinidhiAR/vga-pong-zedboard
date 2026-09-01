@@ -5,11 +5,11 @@ over VGA from the ZedBoard's onboard DAC. No frame buffer, no soft
 processor involvement — every pixel is computed live, once per scanline,
 by combinational logic reading the current game state.
 
-![VGA Pong gameplay](docs/3-vga-pong-screen-gameplay.gif)
+![VGA Pong gameplay](docs/vga-pong-screen-gameplay.gif)
 
 | Score 2-3 | Score 2-4 |
 |---|---|
-| ![VGA Pong score 2-3](docs/1-vga-pong-screen-score-2-3.png) | ![VGA Pong score 2-4](docs/2-vga-pong-screen-score-2-4.png) |
+| ![VGA Pong score 2-3](docs/vga-pong-screen-score-2-3.png) | ![VGA Pong score 2-4](docs/vga-pong-screen-score-2-4.png) |
 
 ## Why this project
 
